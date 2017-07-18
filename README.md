@@ -1,3 +1,16 @@
+# CD_MEAN_Angular_PowerLevels
+Troy Center troycenter1@gmail.com July 2017
+Coding Dojo MEAN stack, Angular Fundamentals, Power Levels assignment
+
+## Power Levels
+Create an app which a user can input a power level value between 1-100. Present the user 6 sections that use the power level value, multiply it by a specific multipler and display the adjusted value.
+
+Reference the wireframe for details.
+
+<img src="https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/Angular-PowerLevels.png" alt="Coding Dojo Assignment Image">
+
+<br>
+
 # Powerlevels
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
